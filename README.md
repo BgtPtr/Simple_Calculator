@@ -1,4 +1,4 @@
-# Simple_Calculator
+# Calculator
 Simple Calculator  | |  Egyszerű számológép 
 
 | Description | Leírás |
