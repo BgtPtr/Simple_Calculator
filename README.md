@@ -1,5 +1,5 @@
 # Simple_Calculator
-Simple Calculator  | |  Egyszerűbb számológép 
+Simple Calculator  | |  Egyszerű számológép 
 
 ENG
 
