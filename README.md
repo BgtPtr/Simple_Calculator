@@ -5,10 +5,12 @@ ENG
 
 Simple Calculator
 
-How it works and how to use it:
+
+| Description |
+| How it works and how to use it:
 The program is a simple calculator in Python. The program first prompts the user to choose one of 30 arithmetic operations.
 If the user succeeds, after entering the number of the operation, he/she only has to enter the numbers needed for the operation.
-After the evaluation, the application prints the result of the calculation on the screen and waits for the next task to be performed.
+After the evaluation, the application prints the result of the calculation on the screen and waits for the next task to be performed. |
 
 #######################################################################################
 #######################################################################################
